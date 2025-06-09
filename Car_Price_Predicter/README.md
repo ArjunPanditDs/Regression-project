@@ -35,8 +35,7 @@ To accurately predict the resale price of a car based on input features like mak
 | **Python** | Core language |
 | **Pandas / NumPy** | Data preprocessing & handling |
 | **Scikit-learn** | ML model building |
-| **Streamlit** | App interface & deployment |
-| **Matplotlib / Seaborn** | EDA & visualization (optional) |
+| **Streamlit** | App interface & deployment ||
 
 ---
 
